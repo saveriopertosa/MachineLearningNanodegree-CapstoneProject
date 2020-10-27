@@ -20,6 +20,8 @@ Keep in mind as well that someone using the app might make a purchase through th
 - profile.json - data: customers
 - transcript.json - data: event log
 - joined_data.csv - cached data
+- proposal.pdf - short description of the problem and the proposed solution
+- report.pdf - full report of the project
 
 # Libraries
 - This project is developed in Python 3.7.
